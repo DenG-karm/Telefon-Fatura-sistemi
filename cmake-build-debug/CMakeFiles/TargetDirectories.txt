@@ -1,0 +1,3 @@
+C:/Users/USER/CLionProjects/Telfaturasistemi/cmake-build-debug/CMakeFiles/Telfaturasistemi.dir
+C:/Users/USER/CLionProjects/Telfaturasistemi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/CLionProjects/Telfaturasistemi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
